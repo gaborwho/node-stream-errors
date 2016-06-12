@@ -28,8 +28,7 @@ const title = function(message) {
   const underline = message.replace(/./g, '=');
   console.log(`
 ${message}
-${underline}
-`);
+${underline}`);
 };
 
 co(function*() {
