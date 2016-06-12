@@ -1,0 +1,22 @@
+{
+  "name": "node-stream-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaborwho/node-stream-errors.git"
+  },
+  "author": "gaborwho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaborwho/node-stream-errors/issues"
+  },
+  "homepage": "https://github.com/gaborwho/node-stream-errors#readme",
+  "dependencies": {
+    "co": "4.6.0"
+  }
+}
